@@ -1,5 +1,6 @@
 # Basic-Form-Design-HTML-SCSS-JS
 
 
-[<img align="left" alt="Miniatura" width="600px" src="https://i.ibb.co/B2MkLPy/miniatura.png" />]
+<img align="left" alt="Miniatura" width="600px" src="https://i.ibb.co/B2MkLPy/miniatura.png" />
+
 This is a basic example of a form made with HTML, SCSS and JS.
