@@ -2,7 +2,7 @@
 
 ### I'm a Fullstack Web Developer and Graphic Designer.
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" />][youtube]
+Tutorial: [<img align="left" alt="codeSTACKr | YouTube" width="100px" src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" />][youtube]
 
 <br />
 
