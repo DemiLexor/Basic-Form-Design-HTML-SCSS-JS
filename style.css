@@ -1,0 +1,132 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #f3f3f3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#form {
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  position: relative;
+  width: 300px;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+#form h1 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  line-height: 20px;
+}
+
+#form h2 {
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+#form .form__inputContainer {
+  display: block;
+  margin-bottom: 10px;
+  position: relative;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#form .form__inputContainer label {
+  display: inline-block;
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  left: 10px;
+  background: #fff;
+  padding: 0px 5px;
+  -webkit-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+
+#form .form__inputContainer label.focus {
+  top: -5px;
+  font-size: 12px;
+}
+
+#form .form__inputContainer label.success {
+  color: #43d166;
+}
+
+#form .form__inputContainer label.error {
+  color: #d14343;
+}
+
+#form .form__inputContainer input {
+  padding: 10px;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: block;
+  position: relative;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+
+#form .form__inputContainer input:hover {
+  border-color: #5ca7ec;
+}
+
+#form .form__inputContainer input:focus {
+  border: 1px solid rgba(82, 149, 212, 0.6);
+}
+
+#form .form__inputContainer input.success {
+  border: 1px solid #43d166;
+}
+
+#form .form__inputContainer input.error {
+  border: 1px solid #d14343;
+}
+
+#form button {
+  margin-top: 10px;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+  background-color: #5ca7ec;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+#form button:hover {
+  background-color: #519add;
+}
+
+#passShow {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  cursor: pointer;
+  background: none;
+  padding: 5px;
+  overflow: hidden;
+  border-radius: 999px;
+}
+/*# sourceMappingURL=style.css.map */
