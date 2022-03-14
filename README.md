@@ -5,7 +5,7 @@
 
 ### Create a basic login form using HTML, CSS(sass), and JavaScript.
 
-<img align="left" alt="YouTube" src="https://img.shields.io/github/stars/JoseCGDEV/Basic-Form-Design-HTML-SCSS-JS" />
+<img align="left" alt="YouTube" src="https://img.shields.io/github/stars/JoseCGDEV/Basic-Form-Design-HTML-SCSS-JS?style=social" />
 <img align="left" alt="YouTube" src="https://img.shields.io/youtube/likes/IUFwhSIXxco?style=social" />
 <img align="left" alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPpoBoAnh5A9tEXwrBepsBA?style=social" />
 <img align="left" alt="YouTube" src="https://img.shields.io/youtube/views/IUFwhSIXxco?style=social" />
