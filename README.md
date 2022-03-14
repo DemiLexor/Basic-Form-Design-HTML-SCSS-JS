@@ -12,7 +12,7 @@
 
 </br>
 </br>
-Tutorial: https://youtu.be/IUFwhSIXxco
+Video Tutorial: https://youtu.be/IUFwhSIXxco
 
 
 
